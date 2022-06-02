@@ -1,0 +1,13 @@
+.first-section{
+  background-image: url('../img/photo.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.first-section h1 {
+  color: white;
+}
+
+.first-section p {
+  color: white;
+}

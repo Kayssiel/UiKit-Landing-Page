@@ -1,3 +1,3 @@
 # UiKit-Landing-Page
 
-Model version using UiKit
+Web model version using UiKit
